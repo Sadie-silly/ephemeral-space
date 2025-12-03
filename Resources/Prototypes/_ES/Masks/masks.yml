@@ -45,6 +45,18 @@
   - type: ESMaskCacheSpawner
     cacheProto: ESSpawnerRandomTraitorCache
 
+- type: esMask
+  id: ESVeteran
+  name: es-mask-veteran-name
+  troupe: ESCrew
+  description: es-mask-veteran-desc
+  weight: 1
+  objectives:
+    id: ESObjectiveKillNonCrew
+  mindComponents:
+  - type: ESMaskCacheSpawner
+    cacheProto: ESCrateCacheCrewVeteran
+
 # Traitor Masks
 - type: esMask
   id: ESBaseTraitor
