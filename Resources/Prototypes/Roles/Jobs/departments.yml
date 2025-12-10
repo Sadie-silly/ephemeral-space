@@ -21,7 +21,6 @@
   - Chef
   - Janitor
   - ServiceWorker
-  - Reporter
 # ES END
 
 - type: department
@@ -44,7 +43,7 @@
   - Mime
   - Musician
   - Passenger
-#  - Reporter
+  - Reporter
   - Visitor
 #  - ServiceWorker
 # ES END
