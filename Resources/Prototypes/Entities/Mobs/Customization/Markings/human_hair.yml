@@ -54,19 +54,26 @@
   sprites:
     - sprite: _ES/Mobs/Customization/human_hair.rsi
       state: bedheadv2
+- type: marking
+  id: HumanHairBedheadv3
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ES/Mobs/Customization/human_hair.rsi
+      state: bedheadv3
+- type: marking
+  id: HumanHairBedheadv4
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ES/Mobs/Customization/human_hair.rsi
+      state: bedheadv4
 # ///// ES Start /////
 # TODO: Resprite all of the commented out hairs so they can be enabled again
 # Because the resprite hairs do not fit well, we are using the classic space station hairs as a base.
 # Unfortunately, a lot of them suck / don't fit the artstyle, so they have been disabled until they are resprited.
 # For my own sanity - every comment block from here on out is an ES change.
 #
-#- type: marking
-#  id: HumanHairBedheadv3
-#  bodyPart: Hair
-#  markingCategory: Hair
-#  sprites:
-#    - sprite: _ES/Mobs/Customization/human_hair.rsi
-#      state: bedheadv3
 #- type: marking
 #  id: HumanHairCube
 #  bodyPart: Hair
@@ -109,27 +116,27 @@
   sprites:
     - sprite: _ES/Mobs/Customization/human_hair.rsi
       state: beehive
-#- type: marking
-#  id: HumanHairBeehivev2
-#  bodyPart: Hair
-#  markingCategory: Hair
-#  sprites:
-#    - sprite: _ES/Mobs/Customization/human_hair.rsi
-#      state: beehivev2
-#- type: marking
-#  id: HumanHairBob
-#  bodyPart: Hair
-#  markingCategory: Hair
-#  sprites:
-#    - sprite: _ES/Mobs/Customization/human_hair.rsi
-#      state: bob
-#- type: marking
-#  id: HumanHairBob2
-#  bodyPart: Hair
-#  markingCategory: Hair
-#  sprites:
-#    - sprite: _ES/Mobs/Customization/human_hair.rsi
-#      state: bob2
+- type: marking
+  id: HumanHairBeehivev2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ES/Mobs/Customization/human_hair.rsi
+      state: beehivev2
+- type: marking
+  id: HumanHairBob
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ES/Mobs/Customization/human_hair.rsi
+      state: bob
+- type: marking
+  id: HumanHairBob2
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ES/Mobs/Customization/human_hair.rsi
+      state: bob2
 - type: marking
   id: HumanHairBobcut
   bodyPart: Hair
@@ -298,13 +305,13 @@
   sprites:
     - sprite: _ES/Mobs/Customization/human_hair.rsi
       state: business4
-#- type: marking
-#  id: HumanHairBuzzcut
-#  bodyPart: Hair
-#  markingCategory: Hair
-#  sprites:
-#    - sprite: _ES/Mobs/Customization/human_hair.rsi
-#      state: buzzcut
+- type: marking
+  id: HumanHairBuzzcut
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ES/Mobs/Customization/human_hair.rsi
+      state: buzzcut
 - type: marking
   id: HumanHairCia
   bodyPart: Hair
@@ -459,13 +466,13 @@
   sprites:
     - sprite: _ES/Mobs/Customization/human_hair.rsi
       state: dandypompadour
-# - type: marking
-  # id: HumanHairDevilock
-  # bodyPart: Hair
-  # markingCategory: Hair
-  # sprites:
-    # - sprite: _ES/Mobs/Customization/human_hair.rsi
-      # state: devilock
+- type: marking
+  id: HumanHairDevilock
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ES/Mobs/Customization/human_hair.rsi
+      state: devilock
 - type: marking
   id: HumanHairDoublebun
   bodyPart: Hair
@@ -662,13 +669,13 @@
   sprites:
     - sprite: _ES/Mobs/Customization/human_hair.rsi
       state: himeup
-# - type: marking
-  # id: HumanHairHitop
-  # bodyPart: Hair
-  # markingCategory: Hair
-  # sprites:
-    # - sprite: _ES/Mobs/Customization/human_hair.rsi
-      # state: hitop
+- type: marking
+  id: HumanHairHitop
+  bodyPart: Hair
+  markingCategory: Hair
+  sprites:
+    - sprite: _ES/Mobs/Customization/human_hair.rsi
+      state: hitop
 # - type: marking
   # id: HumanHairJade
   # bodyPart: Hair

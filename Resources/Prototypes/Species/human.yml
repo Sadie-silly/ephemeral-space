@@ -12,15 +12,15 @@
   - HumanHairBalding
   - HumanHairBedhead
   - HumanHairBedheadv2
-  # - HumanHairBedheadv3
+  - HumanHairBedheadv3
   - HumanHairBoddicker
   - HumanHairBowlcut
   - HumanHairBowlcut2
-  # - HumanHairCoffeehouse
+  - HumanHairCoffeehouse
   - HumanHairCombover
   - HumanHairC
   - HumanHairDandypompadour
-  # - HumanHairDevilock
+  - HumanHairDevilock
   - HumanHairNofade
   - HumanHairHighfade
   - HumanHairMedfade
@@ -31,7 +31,7 @@
   - HumanHairBigflattop
   - HumanHairFlow
   - HumanHairHedgehog
-  # - HumanHairHitop
+  - HumanHairHitop
   - HumanHairJoestar
   - HumanHairMegaeyebrows
   - HumanHairReversemohawk
@@ -47,10 +47,10 @@
   - HumanHairE
   femaleHair:
   - HumanHairAntenna
-  #  - HumanHairBeehive
-  #  - HumanHairBeehivev2
-  #  - HumanHairBob
-  #  - HumanHairBob2
+  - HumanHairBeehive
+  - HumanHairBeehivev2
+  - HumanHairBob
+  - HumanHairBob2
   - HumanHairBobcut
   - HumanHairBob4
   #  - HumanHairBob5
@@ -107,6 +107,7 @@
   unisexHair:
   - HumanHairAfro
   - HumanHairAfro2
+  - HumanHairBedheadv4
   - HumanHairBigafro
   # - HumanHairPulato
   - HumanHairLongBedhead
@@ -119,7 +120,7 @@
   - HumanHairBusiness2
   - HumanHairBusiness3
   - HumanHairBusiness4
-  # - HumanHairBuzzcut
+  - HumanHairBuzzcut
   - HumanHairCia
   # - HumanHairClassicAfro
   # - HumanHairClassicBigAfro
