@@ -8,6 +8,9 @@ es-mask-arms-dealer-desc = Help the crew complete the station objective by handi
 es-mask-vip-name = VIP
 es-mask-vip-desc = Confirm your innocence with the assistance of your fancy VIP card. Help your crewmembers complete the station objective.
 
+es-mask-daredevil-name = Daredevil
+es-mask-daredevil-desc = You live an intense lifestyle, constantly seeking new ways to kill yourself faster.
+
 es-mask-fruit-vendor-name = Fruit Vendor
 es-mask-fruit-vendor-desc = Dispense delicious fruits to aid in the completion of the station objective.
 
