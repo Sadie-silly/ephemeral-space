@@ -61,8 +61,7 @@
 - type: entity
   parent: ESWeaponDoubleBarrelShotgun
   id: ESWeaponDoubleBarrelShotgunNonlethal
+  suffix: ES, Non-Lethal
   components:
   - type: BallisticAmmoProvider
     proto: ESShellShotgunBeanbag
-  - type: Gun
-    fireRate: 4
